@@ -1,5 +1,6 @@
-# ispm
-Information System Project Manager
+# ispm备考
+Information System Project Manager  
+2020.10.24 start
 
 ## Chapter1 信息化和信息系统
 
